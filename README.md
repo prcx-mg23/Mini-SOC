@@ -34,7 +34,6 @@ Toutes les VMs partagent le même réseau NAT VMware (`192.168.X.0/24`), ce qui 
 - Déploiement et durcissement d'un SIEM (Wazuh Manager, OpenSearch, Dashboard)
 - Configuration d'un IDS réseau (Suricata) en mode capture promiscuous, troubleshooting af-packet et intégration systemd
 - Intégration de sources de logs hétérogènes (agents natifs, fichiers JSON, syslog) dans un pipeline de détection centralisé
-- Reconnaissance et exploitation de vulnérabilités web et réseau classiques (OWASP Top 10, CVE historiques)
 - Analyse d'alertes IDS/SIEM et réduction du bruit (tuning de règles, gestion des faux positifs)
 
 ## Stack technique
